@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello... Welcome to my GitHub world!!!</h1>
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="40" height="40" /> Hello... Welcome to my GitHub world!!!
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="40" height="40" /> 
+👋 Hello... Welcome to my GitHub world!!!</h1>
 
 ## Hi there 👋
 
