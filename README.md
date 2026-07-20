@@ -7,4 +7,6 @@ I'm Jaindu Rodrigo, a Software Developer
 * 🌍 I'm based in Sri Lanka
 * ✉️ You can contact me at jaindurodrigo10@gmail.com
 
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ---
