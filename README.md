@@ -10,4 +10,4 @@ I'm Jaindu Rodrigo, a Software Developer
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-<img src="https://i.gifer.com/ZZ5H.gif" width="25" align="center" />
+
