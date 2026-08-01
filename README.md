@@ -10,4 +10,7 @@ I'm Jaindu Rodrigo, a Software Developer
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=false&vCenter=false&width=435&lines=I'm+Jaindu+Rodrigo;A+Software+Developer" alt="Typing SVG" />
+</a>
 
